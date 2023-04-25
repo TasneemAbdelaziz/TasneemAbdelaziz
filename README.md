@@ -7,13 +7,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Coding%20Every%20Thing;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
 
-- 🏢 I'm Still learn CS as a student at Alexidria university 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🤔 I'm looking for work as a freelance.
 
 ### 🔗 Connect with Me :
 

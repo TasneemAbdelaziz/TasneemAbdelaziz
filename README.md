@@ -23,4 +23,6 @@
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/css3.png"/>
  <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
   </p>

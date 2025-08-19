@@ -11,13 +11,6 @@
 <a href="https://www.linkedin.com/in/tasnem-abdelaziz-b73476221" target="_blank"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 
 
-## 🚀 Commonly Used
-<p>
-  <img src="https://img.icons8.com/fluency/48/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
-</p>
-
-
 ## 🛠 Skills
 <p><img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>

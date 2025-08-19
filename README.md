@@ -5,7 +5,7 @@
 </h3>
 
 ###  About Me
-- 🎓  **Computer Science Graduate** passionate about software development.  
+- 🎓  **Computer Science Graduate**.  
 - 💻 Experienced in **Flutter, Dart** for cross-platform mobile apps.  
 - 🤖 Interested in **AI & Machine Learning integration with Flutter**.  
 - 🚀 Always eager to **learn new technologies** and contribute to open-source projects.  
